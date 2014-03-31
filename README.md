@@ -1,4 +1,4 @@
-JA8OM
+JA8OM - Made in JavaScript
 =====
 
-JA8OM, a math cipher! Made in JavaScript.
+JA8OM, a math cipher!
